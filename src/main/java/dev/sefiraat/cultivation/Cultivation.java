@@ -59,9 +59,9 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
         }
 
         getLogger().info("########################################");
-        getLogger().info("         Cultivation 农耕工艺            ");
-        getLogger().info("        By Sefiraat and J3fftw         ");
-        getLogger().info("         粘液科技简中汉化组 汉化           ");
+        getLogger().info("              Cultivation               ");
+        getLogger().info("        By Sefiraat and J3fftw          ");
+        getLogger().info("         粘液科技简中汉化组 汉化          ");
         getLogger().info("########################################");
 
         saveDefaultConfig();
